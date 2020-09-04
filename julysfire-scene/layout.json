@@ -1,24 +1,84 @@
 {
   "content": [
     {
+      "path": "Business.json",
+      "size": 124,
+      "date": 132430201414013834
+    },
+    {
       "path": "ContentInfo/julysfire-scene/Thumbnail.jpg",
       "size": 13520,
       "date": 132399197780000000
     },
     {
+      "path": "manifest.json",
+      "size": 304,
+      "date": 132436553567533153
+    },
+    {
       "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 56,
-      "date": 132435810614956530
+      "size": 16264,
+      "date": 132436543376859806
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/ARROW.PNG.DDS",
+      "size": 22832,
+      "date": 132436543376459447
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/ARROW.PNG.DDS.json",
+      "size": 119,
+      "date": 132436543376409397
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/CIRCLE.PNG.DDS",
+      "size": 16976,
+      "date": 132436541753001503
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/CIRCLE.PNG.DDS.json",
+      "size": 119,
+      "date": 132436541752931448
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/COTTONWOOD.PNG.DDS",
+      "size": 108000,
+      "date": 132436541753266794
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/COTTONWOOD.PNG.DDS.json",
+      "size": 119,
+      "date": 132436541753216749
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/ONEFOUR.PNG.DDS",
+      "size": 27488,
+      "date": 132436541753426939
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/ONEFOUR.PNG.DDS.json",
+      "size": 119,
+      "date": 132436541753376895
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/THREETWO.PNG.DDS",
+      "size": 107136,
+      "date": 132436543376579551
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/THREETWO.PNG.DDS.json",
+      "size": 119,
+      "date": 132436543376539519
     },
     {
       "path": "scenery/world/scenery/CVX0052.BGL",
-      "size": 2736,
-      "date": 132435810615867355
+      "size": 4942,
+      "date": 132436627055131680
     },
     {
       "path": "scenery/world/scenery/objects.bgl",
-      "size": 7651,
-      "date": 132435810615306850
+      "size": 125081,
+      "date": 132436627054901480
     }
   ]
 }
