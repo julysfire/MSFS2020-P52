@@ -1,6 +1,6 @@
 --Painted Lines--
 1. Check spacing/straightness
-2. Threshold Arrows need to be flatten and yellow
+2. Runway 32 only threshold marker
 
 --3D--
 1. Look to add more 3D objects around the airport (non airport area)
