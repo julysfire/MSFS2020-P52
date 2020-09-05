@@ -13,22 +13,72 @@
     {
       "path": "manifest.json",
       "size": 304,
-      "date": 132436627055331864
+      "date": 132437298631646103
+    },
+    {
+      "path": "MaterialLibs/mymaterials/Library.xml",
+      "size": 2667,
+      "date": 132437293686637870
+    },
+    {
+      "path": "MaterialLibs/mymaterials/Textures/AP1.PNG.DDS",
+      "size": 21204,
+      "date": 132437295312522225
+    },
+    {
+      "path": "MaterialLibs/mymaterials/Textures/ap1.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132437172143972686
+    },
+    {
+      "path": "MaterialLibs/mymaterials/Textures/AP1.PNG.DDS.json",
+      "size": 232,
+      "date": 132437295312462173
+    },
+    {
+      "path": "MaterialLibs/mymaterials/Textures/AP2.PNG.DDS",
+      "size": 20340,
+      "date": 132437295313816143
+    },
+    {
+      "path": "MaterialLibs/mymaterials/Textures/ap2.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132437176704855415
+    },
+    {
+      "path": "MaterialLibs/mymaterials/Textures/AP2.PNG.DDS.json",
+      "size": 231,
+      "date": 132437295313766091
+    },
+    {
+      "path": "MaterialLibs/mymaterials/Textures/ASPH1.PNG.DDS",
+      "size": 167572,
+      "date": 132437295313275651
+    },
+    {
+      "path": "MaterialLibs/mymaterials/Textures/asph1.PNG.DDS.FLAGS",
+      "size": 39,
+      "date": 132437194254440124
+    },
+    {
+      "path": "MaterialLibs/mymaterials/Textures/ASPH1.PNG.DDS.json",
+      "size": 249,
+      "date": 132437295313235618
     },
     {
       "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 16264,
-      "date": 132436543376859806
+      "size": 16268,
+      "date": 132437293688299377
     },
     {
       "path": "scenery/global/scenery/TEXTURE/ARROW.PNG.DDS",
       "size": 22832,
-      "date": 132436543376459447
+      "date": 132437293687568714
     },
     {
       "path": "scenery/global/scenery/TEXTURE/ARROW.PNG.DDS.json",
       "size": 119,
-      "date": 132436543376409397
+      "date": 132437293687518667
     },
     {
       "path": "scenery/global/scenery/TEXTURE/CIRCLE.PNG.DDS",
@@ -72,13 +122,13 @@
     },
     {
       "path": "scenery/world/scenery/CVX0052.BGL",
-      "size": 5312,
-      "date": 132436678769871319
+      "size": 6511,
+      "date": 132437445812776458
     },
     {
       "path": "scenery/world/scenery/objects.bgl",
-      "size": 134788,
-      "date": 132436678769631100
+      "size": 157900,
+      "date": 132437445812326061
     }
   ]
 }

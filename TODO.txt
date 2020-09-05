@@ -1,13 +1,13 @@
---Aprons--
-1. Import the new apron textures
-
 --Painted Lines--
 1. Check spacing/straightness
 2. Threshold Arrows need to be flatten and yellow
 
 --3D--
-1. Finish fencing
-2. Look to add more 3D objects around the airport (non airport area)
+1. Look to add more 3D objects around the airport (non airport area)
+2. Look into RV models
 
+--Roads--
+1. Continue to improve road textures around the area
 
-Polygons with road texture??? Look into
+--Terraformming--
+1. Looking into accurate terramforming of the area
