@@ -1,19 +1,29 @@
 {
   "content": [
     {
+      "path": "Business.json",
+      "size": 124,
+      "date": 132430201414013834
+    },
+    {
       "path": "ContentInfo/julysfire-scene/Thumbnail.jpg",
       "size": 13520,
       "date": 132399197780000000
     },
     {
+      "path": "manifest.json",
+      "size": 304,
+      "date": 132438391388486638
+    },
+    {
       "path": "MaterialLibs/mymaterials/Library.xml",
       "size": 2667,
-      "date": 132438343143427212
+      "date": 132438391371902551
     },
     {
       "path": "MaterialLibs/mymaterials/Textures/AP1.PNG.DDS",
       "size": 21204,
-      "date": 132438343144353922
+      "date": 132438391372863422
     },
     {
       "path": "MaterialLibs/mymaterials/Textures/ap1.png.DDS.FLAGS",
@@ -23,12 +33,12 @@
     {
       "path": "MaterialLibs/mymaterials/Textures/AP1.PNG.DDS.json",
       "size": 232,
-      "date": 132438343144323893
+      "date": 132438391372793363
     },
     {
       "path": "MaterialLibs/mymaterials/Textures/AP2.PNG.DDS",
       "size": 20340,
-      "date": 132438343146125532
+      "date": 132438391374540167
     },
     {
       "path": "MaterialLibs/mymaterials/Textures/ap2.png.DDS.FLAGS",
@@ -38,12 +48,12 @@
     {
       "path": "MaterialLibs/mymaterials/Textures/AP2.PNG.DDS.json",
       "size": 231,
-      "date": 132438343146075489
+      "date": 132438391374490120
     },
     {
       "path": "MaterialLibs/mymaterials/Textures/ASPH1.PNG.DDS",
       "size": 167572,
-      "date": 132438343145414889
+      "date": 132438391373809518
     },
     {
       "path": "MaterialLibs/mymaterials/Textures/asph1.PNG.DDS.FLAGS",
@@ -53,42 +63,42 @@
     {
       "path": "MaterialLibs/mymaterials/Textures/ASPH1.PNG.DDS.json",
       "size": 249,
-      "date": 132438343145404879
+      "date": 132438391373759459
     },
     {
       "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 231250,
-      "date": 132438343156393632
+      "size": 231638,
+      "date": 132438391385664085
     },
     {
       "path": "scenery/global/scenery/TEXTURE/ARR.PNG.DDS",
       "size": 22832,
-      "date": 132438343146335725
+      "date": 132438391374800393
     },
     {
       "path": "scenery/global/scenery/TEXTURE/ARR.PNG.DDS.json",
       "size": 119,
-      "date": 132438343146325712
+      "date": 132438391374750353
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BLUETILE.PNG.DDS",
       "size": 1638592,
-      "date": 132438343154992360
+      "date": 132438391384352884
     },
     {
       "path": "scenery/global/scenery/TEXTURE/BLUETILE.PNG.DDS.json",
       "size": 102,
-      "date": 132438343154952323
+      "date": 132438391384312851
     },
     {
       "path": "scenery/global/scenery/TEXTURE/CEMENT.PNG.DDS",
       "size": 14064,
-      "date": 132438343151887352
+      "date": 132438391381141183
     },
     {
       "path": "scenery/global/scenery/TEXTURE/CEMENT.PNG.DDS.json",
       "size": 102,
-      "date": 132438343151877336
+      "date": 132438391381121158
     },
     {
       "path": "scenery/global/scenery/TEXTURE/CIRCLE.PNG.DDS",
@@ -113,42 +123,42 @@
     {
       "path": "scenery/global/scenery/TEXTURE/EE.PNG.DDS",
       "size": 2935584,
-      "date": 132438343150966513
+      "date": 132438391379454616
     },
     {
       "path": "scenery/global/scenery/TEXTURE/EE.PNG.DDS.json",
       "size": 119,
-      "date": 132438343150876427
+      "date": 132438391379354523
     },
     {
       "path": "scenery/global/scenery/TEXTURE/GROUND.PNG.DDS",
       "size": 699192,
-      "date": 132438343148122618
+      "date": 132438391376582013
     },
     {
       "path": "scenery/global/scenery/TEXTURE/GROUND.PNG.DDS.json",
       "size": 102,
-      "date": 132438343148062569
+      "date": 132438391376521956
     },
     {
       "path": "scenery/global/scenery/TEXTURE/ONEFOUR.PNG.DDS",
       "size": 27488,
-      "date": 132438343151587078
+      "date": 132438391380110248
     },
     {
       "path": "scenery/global/scenery/TEXTURE/ONEFOUR.PNG.DDS.json",
       "size": 119,
-      "date": 132438343151527020
+      "date": 132438391380060201
     },
     {
       "path": "scenery/global/scenery/TEXTURE/THREETWO.PNG.DDS",
       "size": 36016,
-      "date": 132438343155272613
+      "date": 132438391384683189
     },
     {
       "path": "scenery/global/scenery/TEXTURE/THREETWO.PNG.DDS.json",
       "size": 119,
-      "date": 132438343155252603
+      "date": 132438391384663167
     },
     {
       "path": "scenery/global/scenery/TEXTURE/THRES.PNG.DDS",
@@ -162,13 +172,13 @@
     },
     {
       "path": "scenery/world/scenery/CVX0052.BGL",
-      "size": 7785,
-      "date": 132438343158891194
+      "size": 7783,
+      "date": 132438391388216386
     },
     {
       "path": "scenery/world/scenery/objects.bgl",
-      "size": 182829,
-      "date": 132438343157900303
+      "size": 188926,
+      "date": 132438407397338571
     }
   ]
 }

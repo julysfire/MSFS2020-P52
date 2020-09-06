@@ -15,6 +15,8 @@ AirNav: <https://www.airnav.com/airport/P52>
 
 Wikipedia: <https://en.wikipedia.org/wiki/Cottonwood_Airport>
 
+Google Maps <https://www.google.com/maps/@34.733116,-112.0371032,727a,35y,246h,1.83t/data=!3m1!1e3>
+
 ##### Features
 
 - Hand crafted airport and scenery
@@ -27,8 +29,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Cottonwood_Airport>
 - Realistic look and feel
 - Realistic night lighting around the hangars/runway/aprons
 - Beautiful mountain scenery overlooking the airport
-
--Approx ~90 miles (~144 kilometers) North of downtown Phoenix, Arizona
+- Approx ~90 miles (~144 kilometers) North of downtown Phoenix, Arizona
  
 #### ---Installation Instructions---
 1. Download the .zip file from Releases (or zip file here)
@@ -44,7 +45,9 @@ For the Steam edition:
 
 ## Screenshots
 
-   
+Before
+
+  
    
 If you enjoyed it as well and would like to donate, it is very much appreciated but never will be required.  I am doing this to add to the community and because I found I enjoyed it.
 http://paypal.me/julysfire

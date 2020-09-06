@@ -1,6 +1,7 @@
 --3D--
 1. Look to add more 3D objects around the airport (non airport area)
 2. Look into RV models (2 RV parks in the area)
+3. Pole can be a bit more rounded...seems blocky
 
 --Roads/Aprons--
 1. Continue to improve road textures around the area
