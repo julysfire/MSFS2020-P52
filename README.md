@@ -47,7 +47,7 @@ For the Steam edition:
 
 Before and Afters
 
-![Compare1](Screenshots/Compare/Compare1.PNG)
+![Compare1](Screenshots\Compare\Compare1.PNG)
 
 ![Compare2](Screenshots/Compare/Compare2.PNG)
 
