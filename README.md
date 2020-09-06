@@ -47,13 +47,13 @@ For the Steam edition:
 
 Before and Afters
 
-![Compare1](Screenshots\Compare\Compare1.PNG)
+![Compare1](Screenshots/Compare/Compare1.png)
 
-![Compare2](Screenshots/Compare/Compare2.PNG)
+![Compare2](Screenshots/Compare/Compare2.png)
 
-![Compare3](Screenshots/Compare/Compare3.PNG)
+![Compare3](Screenshots/Compare/Compare3.png)
 
-![Compare4](Screenshots/Compare/Compare4.PNG)
+![Compare4](Screenshots/Compare/Compare4.png)
 
 
 P52 Screenshots
