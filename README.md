@@ -43,6 +43,9 @@ For the Steam edition:
 
 	C:\Users\[YOUR USERNAME]\AppData\Roaming\Microsoft Flight Simulator\Packages\Community
 
+#### -- Important --
+I have noticed that changing the package name (julysfire-airport-p52-cottonwood) before or after moving it to the Communities folder will break the link with custom textures.  If you are seeing missing textures, please ensure the package is named "julysfire-airport-p52-cottonwood" without quotes.
+
 ## Screenshots
 
 Before and Afters
