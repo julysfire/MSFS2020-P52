@@ -18,23 +18,14 @@ Wikipedia: <https://en.wikipedia.org/wiki/Cottonwood_Airport>
 ##### Features
 
 -Hand crafted airport and scenery
-
 -Plenty of GA parking spots
-
 -Custom apron and taxiway textures
-
--Added custom objects from airport (Cottonwood ground painting)
-
+-Added custom objects from airport (Cottonwood ground painting, overhang parking structure)
 -Fixed many of the roads in the area
-
 -Fixed many of the buildings that didn't auto generate
-
 -Better ground textures and vegetation
-
--Realistic look and feeling
-
--Realistic night lighting around the hangars/runway
-
+-Realistic look and feel
+-Realistic night lighting around the hangars/runway/aprons
 -Beautiful mountain scenery overlooking the airport
 
 -Approx ~90 miles (~144 kilometers) North of downtown Phoenix, Arizona
@@ -50,4 +41,10 @@ For the Microsoft Store edition AND/OR Gamepass edition:
 For the Steam edition:
 
 	C:\Users\[YOUR USERNAME]\AppData\Roaming\Microsoft Flight Simulator\Packages\Community
+
+## Screenshots
+
    
+   
+If you enjoyed it as well and would like to donate, it is very much appreciated but never will be required.  I am doing this to add to the community and because I found I enjoyed it.
+http://paypal.me/julysfire

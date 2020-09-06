@@ -1,13 +1,14 @@
 --Painted Lines--
 1. Check spacing/straightness
-2. Runway 32 only threshold marker
+2. Runway 32 threshold marker textuer needs improvment
 
 --3D--
 1. Look to add more 3D objects around the airport (non airport area)
 2. Look into RV models (2 RV parks in the area)
 
---Roads--
+--Roads/Aprons--
 1. Continue to improve road textures around the area
+2. Potentially better Apron 2 texture
 
 --Terraformming--
 1. Looking into accurate terramforming of the area
