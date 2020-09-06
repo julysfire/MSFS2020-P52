@@ -9,7 +9,7 @@ Cords: 34°43'48.0"N 112°02'06.0"W
 
 
 ##### Summary
-TODO
+Cottonwood is a small city north of Phoenix tucked between two beautiful mountain ranges in the Verde Valley with plenty of national forests within flying distance.  Originally opened in 1929 as Clemenceau Airport, the name was changed to Cottonwood Airport sometime between 1945 and 1957.
 
 AirNav: <https://www.airnav.com/airport/P52>
 
@@ -45,9 +45,32 @@ For the Steam edition:
 
 ## Screenshots
 
-Before
+Before and Afters
 
-  
+![Compare1](Screenshots/Compare/Compare1.PNG)
+
+![Compare2](Screenshots/Compare/Compare2.PNG)
+
+![Compare3](Screenshots/Compare/Compare3.PNG)
+
+![Compare4](Screenshots/Compare/Compare4.PNG)
+
+
+P52 Screenshots
+
+![Cover](Screenshots/cover.PNG)
+
+![1](Screenshots/1.PNG)
+
+![2](Screenshots/8.PNG)
+
+![3](Screenshots/7.PNG)
+
+![4](Screenshots/10.PNG)
+
+![5](Screenshots/11.PNG)
+
+Even more screenshots in the Screenshots folder!
    
 If you enjoyed it as well and would like to donate, it is very much appreciated but never will be required.  I am doing this to add to the community and because I found I enjoyed it.
 http://paypal.me/julysfire
