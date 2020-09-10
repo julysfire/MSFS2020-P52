@@ -43,8 +43,19 @@ For the Steam edition:
 
 	C:\Users\[YOUR USERNAME]\AppData\Roaming\Microsoft Flight Simulator\Packages\Community
 
-#### -- Important --
-I have noticed that changing the package name (julysfire-airport-p52-cottonwood) before or after moving it to the Communities folder will break the link with custom textures.  If you are seeing missing textures, please ensure the package is named "julysfire-airport-p52-cottonwood" without quotes.
+### Release Notes
+
+Release: V1.1
+
+- Fixed an issue where some people were having missing custom textures
+- Better textures for aprons
+- Added more 3D objects and walls around the airport
+- Add some more roads/sidewalks in the surrounding area
+- Added more vegetation in the area
+- Fixed some vegetation populating on roads
+- Fixed some custom 3D objects that may have appeared floating or off colored
+- Fixed a lot of parking T lines (still some more work left here too)
+
 
 ## Screenshots
 

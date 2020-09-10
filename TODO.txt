@@ -5,4 +5,3 @@
 
 --Roads/Aprons--
 1. Continue to improve road textures around the area
-2. Potentially better Apron 2 texture
