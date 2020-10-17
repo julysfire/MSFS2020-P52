@@ -17,6 +17,23 @@ Wikipedia: <https://en.wikipedia.org/wiki/Cottonwood_Airport>
 
 Google Maps <https://www.google.com/maps/@34.733116,-112.0371032,727a,35y,246h,1.83t/data=!3m1!1e3>
 
+
+### Release Notes
+
+Release: V1.2.0
+
+- [Added the sign out front](https://www.google.com/maps/place/Cottonwood+Airport/@34.7297583,-112.0353341,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNCQA40DYTSQC2qeM2yGwn4KdR9oZHIeUPGG62V!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNCQA40DYTSQC2qeM2yGwn4KdR9oZHIeUPGG62V%3Dw203-h114-k-no!7i4320!8i2432!4m12!1m6!3m5!1s0x0:0xdc484d4c43ccf8e7!2sCottonwood+Airport!8m2!3d34.7297583!4d-112.0353341!3m4!1s0x0:0xdc484d4c43ccf8e7!8m2!3d34.7297583!4d-112.0353341) :)
+- Terrain elevation height fixes
+- Added more foliage where vegetation was missing.
+- Improved some textures. (some gravel, asphalt and a taxiway dind't look that great).
+- Corrected the parking Ts.  ##### This also means that GA aircraft will now spawn at the airport.
+- Few more 3D objects in the area around the airport.
+- Taxiways link up to the runway now.
+- Included a civilian airport beacon.
+- Improved the quality of the roof/pillar texture for the open hangar.
+- Fixed a hole in the perimeter fencing.
+- Fixed runway texture.
+
 ##### Features
 
 - Hand crafted airport and scenery
@@ -42,19 +59,6 @@ For the Microsoft Store edition AND/OR Gamepass edition:
 For the Steam edition:
 
 	C:\Users\[YOUR USERNAME]\AppData\Roaming\Microsoft Flight Simulator\Packages\Community
-
-### Release Notes
-
-Release: V1.1
-
-- Fixed an issue where some people were having missing custom textures
-- Better textures for aprons
-- Added more 3D objects and walls around the airport
-- Add some more roads/sidewalks in the surrounding area
-- Added more vegetation in the area
-- Fixed some vegetation populating on roads
-- Fixed some custom 3D objects that may have appeared floating or off colored
-- Fixed a lot of parking T lines (still some more work left here too)
 
 
 ## Screenshots
