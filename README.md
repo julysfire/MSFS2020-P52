@@ -22,7 +22,7 @@ Google Maps <https://www.google.com/maps/@34.733116,-112.0371032,727a,35y,246h,1
 
 Release: V1.2.0
 
-- [Added the sign out front](https://www.google.com/maps/place/Cottonwood+Airport/@34.7297583,-112.0353341,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNCQA40DYTSQC2qeM2yGwn4KdR9oZHIeUPGG62V!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNCQA40DYTSQC2qeM2yGwn4KdR9oZHIeUPGG62V%3Dw203-h114-k-no!7i4320!8i2432!4m12!1m6!3m5!1s0x0:0xdc484d4c43ccf8e7!2sCottonwood+Airport!8m2!3d34.7297583!4d-112.0353341!3m4!1s0x0:0xdc484d4c43ccf8e7!8m2!3d34.7297583!4d-112.0353341) :)
+- [Added the sign out front](https://i.imgur.com/UuEthWU.png) :)
 - Terrain elevation height fixes
 - Added more foliage where vegetation was missing.
 - Improved some textures. (some gravel, asphalt and a taxiway dind't look that great).
