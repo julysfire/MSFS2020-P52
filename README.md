@@ -26,7 +26,7 @@ Release: V1.2.0
 - Terrain elevation height fixes
 - Added more foliage where vegetation was missing.
 - Improved some textures. (some gravel, asphalt and a taxiway dind't look that great).
-- Corrected the parking Ts.  ##### This also means that GA aircraft will now spawn at the airport.
+- Corrected the parking Ts.  **This also means that GA aircraft will now spawn at the airport.**
 - Few more 3D objects in the area around the airport.
 - Taxiways link up to the runway now.
 - Included a civilian airport beacon.
