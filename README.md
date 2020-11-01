@@ -38,8 +38,7 @@ Release: V1.2.0
 
 - Hand crafted airport and scenery
 - Plenty of GA parking spots
-- Custom apron and taxiway textures
-- Added custom objects from airport (Cottonwood ground painting, overhang parking structure)
+- Added custom objects from airport (Cottonwood ground painting, overhang parking structure, sign)
 - Fixed many of the roads in the area
 - Fixed many of the buildings that didn't auto generate
 - Better ground textures and vegetation

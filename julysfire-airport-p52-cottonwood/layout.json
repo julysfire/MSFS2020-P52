@@ -6,69 +6,69 @@
       "date": 132399197780000000
     },
     {
-      "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 2850170,
-      "date": 132473666902515773
+      "path": "scenery/global/sceneryP52/modelLibP52.BGL",
+      "size": 2849650,
+      "date": 132487239098554103
     },
     {
-      "path": "scenery/global/scenery/TEXTURE/EE.PNG.DDS",
+      "path": "scenery/global/sceneryP52/TEXTURE/EE.PNG.DDS",
       "size": 2935584,
-      "date": 132473666850432829
+      "date": 132487239046597059
     },
     {
-      "path": "scenery/global/scenery/TEXTURE/EE.PNG.DDS.json",
+      "path": "scenery/global/sceneryP52/TEXTURE/EE.PNG.DDS.json",
       "size": 119,
-      "date": 132473666850392791
+      "date": 132487239046567032
     },
     {
-      "path": "scenery/global/scenery/TEXTURE/ROOFCOLOR.PNG.DDS",
+      "path": "scenery/global/sceneryP52/TEXTURE/ROOFCOLOR.PNG.DDS",
       "size": 22369776,
-      "date": 132473666875902457
+      "date": 132487239071840568
     },
     {
-      "path": "scenery/global/scenery/TEXTURE/ROOFCOLOR.PNG.DDS.json",
+      "path": "scenery/global/sceneryP52/TEXTURE/ROOFCOLOR.PNG.DDS.json",
       "size": 119,
-      "date": 132473666875682263
+      "date": 132487239071680424
     },
     {
-      "path": "scenery/global/scenery/TEXTURE/ROOFNORMAL.PNG.DDS",
+      "path": "scenery/global/sceneryP52/TEXTURE/ROOFNORMAL.PNG.DDS",
       "size": 22369776,
-      "date": 132473666858800457
+      "date": 132487239055114788
     },
     {
-      "path": "scenery/global/scenery/TEXTURE/ROOFNORMAL.PNG.DDS.json",
+      "path": "scenery/global/sceneryP52/TEXTURE/ROOFNORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132473666858620289
+      "date": 132487239054944632
     },
     {
-      "path": "scenery/global/scenery/TEXTURE/SIGNCOLOR.PNG.DDS",
+      "path": "scenery/global/sceneryP52/TEXTURE/SIGNCOLOR.PNG.DDS",
       "size": 23432224,
-      "date": 132473666893286445
+      "date": 132487239097393042
     },
     {
-      "path": "scenery/global/scenery/TEXTURE/SIGNCOLOR.PNG.DDS.json",
+      "path": "scenery/global/sceneryP52/TEXTURE/SIGNCOLOR.PNG.DDS.json",
       "size": 119,
-      "date": 132473666893096271
+      "date": 132487239097182851
     },
     {
-      "path": "scenery/global/scenery/TEXTURE/SIGNNORMAL.PNG.DDS",
+      "path": "scenery/global/sceneryP52/TEXTURE/SIGNNORMAL.PNG.DDS",
       "size": 23432224,
-      "date": 132473666901394797
+      "date": 132487239079931854
     },
     {
-      "path": "scenery/global/scenery/TEXTURE/SIGNNORMAL.PNG.DDS.json",
+      "path": "scenery/global/sceneryP52/TEXTURE/SIGNNORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132473666901194617
+      "date": 132487239079741681
     },
     {
-      "path": "scenery/world/scenery/CVX0052.BGL",
-      "size": 19527,
-      "date": 132473666904687386
+      "path": "scenery/world/sceneryP52/CVX0052.BGL",
+      "size": 20298,
+      "date": 132487239100816153
     },
     {
-      "path": "scenery/world/scenery/objects.bgl",
+      "path": "scenery/world/sceneryP52/objects.bgl",
       "size": 104766,
-      "date": 132473666903696492
+      "date": 132487239099785219
     }
   ]
 }
