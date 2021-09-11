@@ -8,67 +8,67 @@
     {
       "path": "scenery/global/sceneryP52/modelLibP52.BGL",
       "size": 2849854,
-      "date": 132757602152197679
+      "date": 132758578086549997
     },
     {
       "path": "scenery/global/sceneryP52/texture/EE.PNG.DDS",
       "size": 2935584,
-      "date": 132757602090296952
+      "date": 132758578031598215
     },
     {
       "path": "scenery/global/sceneryP52/texture/EE.PNG.DDS.json",
       "size": 119,
-      "date": 132757602090296952
+      "date": 132758578031568185
     },
     {
       "path": "scenery/global/sceneryP52/texture/ROOFCOLOR.PNG.DDS",
       "size": 22369776,
-      "date": 132757602107765953
+      "date": 132758578048859291
     },
     {
       "path": "scenery/global/sceneryP52/texture/ROOFCOLOR.PNG.DDS.json",
       "size": 119,
-      "date": 132757602107564952
+      "date": 132758578048638921
     },
     {
       "path": "scenery/global/sceneryP52/texture/ROOFNORMAL.PNG.DDS",
       "size": 22369776,
-      "date": 132757602117545930
+      "date": 132758578058187989
     },
     {
       "path": "scenery/global/sceneryP52/texture/ROOFNORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132757602117345254
+      "date": 132758578058007826
     },
     {
       "path": "scenery/global/sceneryP52/texture/SIGNCOLOR.PNG.DDS",
       "size": 23432224,
-      "date": 132757602150611406
+      "date": 132758578084948540
     },
     {
       "path": "scenery/global/sceneryP52/texture/SIGNCOLOR.PNG.DDS.json",
       "size": 119,
-      "date": 132757602150411225
+      "date": 132758578084748359
     },
     {
       "path": "scenery/global/sceneryP52/texture/SIGNNORMAL.PNG.DDS",
       "size": 23432224,
-      "date": 132757602132630603
+      "date": 132758578067141485
     },
     {
       "path": "scenery/global/sceneryP52/texture/SIGNNORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132757602132394314
+      "date": 132758578066911274
     },
     {
       "path": "scenery/world/sceneryP52/CVX0052.bgl",
       "size": 19868,
-      "date": 132757602153704919
+      "date": 132758578087874901
     },
     {
       "path": "scenery/world/sceneryP52/objects.bgl",
-      "size": 104842,
-      "date": 132757602153524802
+      "size": 114262,
+      "date": 132758578087724765
     }
   ]
 }
