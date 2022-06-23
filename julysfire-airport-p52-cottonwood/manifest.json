@@ -4,12 +4,12 @@
   "title": "P52 - Cottonwood Airport",
   "manufacturer": "",
   "creator": "Julysfire",
-  "package_version": "1.3.5",
-  "minimum_game_version": "1.19.8",
+  "package_version": "1.3.8",
+  "minimum_game_version": "1.26.5",
   "release_notes": {
     "neutral": {
       "LastUpdate": "",
-      "OlderHistory": ""
+      "OlderHistory": "VERSION 1.3.7 RELEASED JANUARY 1, 0\\nWorld Update X\nImproved vegetation based on updated ground textures\nUpdated location of all airport scenary to match to new ground textures"
     }
   }
 }

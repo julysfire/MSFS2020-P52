@@ -20,19 +20,15 @@ Google Maps <https://www.google.com/maps/@34.733116,-112.0371032,727a,35y,246h,1
 
 ### Release Notes
 
-Release: V1.2.0
+Release: V1.3.8
 
-- [Added the sign out front](https://i.imgur.com/UuEthWU.png) :)
-- Terrain elevation height fixes
-- Added more foliage where vegetation was missing.
-- Improved some textures. (some gravel, asphalt and a taxiway dind't look that great).
-- Corrected the parking Ts.  **This also means that GA aircraft will now spawn at the airport.**
-- Few more 3D objects in the area around the airport.
-- Taxiways link up to the runway now.
-- Included a civilian airport beacon.
-- Improved the quality of the roof/pillar texture for the open hangar.
-- Fixed a hole in the perimeter fencing.
-- Fixed runway texture.
+- Readjusted quite literally everything to match with the World Update X mesh/geo locations
+- Corrected the height near the buildings (there was a small sudden sheer drop)
+- Updated veg details to better match the environment
+- Removed extra windsocks that were auto generated
+- Readjusted some of the road pavements around the airport
+- Added some more walls/fences around buildings nearby the airport
+
 
 ##### Features
 
