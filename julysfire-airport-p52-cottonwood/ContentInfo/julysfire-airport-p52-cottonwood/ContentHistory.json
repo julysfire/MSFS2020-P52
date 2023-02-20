@@ -1,0 +1,10 @@
+{
+  "package-name": "julysfire-airport-p52-cottonwood",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "P52",
+      "revision": 1
+    }
+  ]
+}
